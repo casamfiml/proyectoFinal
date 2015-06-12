@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "name": "App de NodeJs para Jugueteria",
+  "description": "A MEAN Stack para deply de la Jugueteria",
+  "repository": "https://github.com/casamfiml/Jugueteria",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"]
 }
